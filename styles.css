@@ -1,0 +1,16 @@
+/* Reset de estilos básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header, nav, section, footer {
+    margin: 20px;
+}
+
+/* Estilos adicionales según sea necesario */
